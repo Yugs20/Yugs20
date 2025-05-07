@@ -1,0 +1,18 @@
+This is a python projects to refresh the basics of what you have learned.
+
+this includes:
+while loop 
+for loop
+if elif else statements
+print
+variables and inputs
+operations
+var types
+dictionaries 
+lists
+tuples
+
+Project details:
+A banking system in which u can withdraw your money, deposit, 
+transfer, change your pin, check your balance, view transaction history,
+ has multi user support or exit.
